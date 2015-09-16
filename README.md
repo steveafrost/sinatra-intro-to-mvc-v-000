@@ -8,6 +8,11 @@
 2. Explain the relationship between models, views, and controllers.
 
 ## Model-View-Controller Overview
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/IT54uYUISQg" frameborder="0"
+allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=IT54uYUISQg">MVC Overview</a></p>
+
 We could create create a web application in one file, with thousands of lines of code in the same document. It would work. But it would present us with some very big challenges: it would be close to impossible to debug our program, and our code would be virtually unreadable.
 
 Instead, we use frameworks (Sinatra being one of them), to separate an application's code by function and make writing, reading, and debugging code a much more pleasant and simple experience.
