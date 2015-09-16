@@ -7,6 +7,10 @@ resources:
 
 # Intro To Mvc
 
+## TEACHER OUTLINE
++ Kitchen analogy of mvc
++ Explain the relationship between models, views and controllers.
+
 ## Objectives
 
 1. Objective 1
