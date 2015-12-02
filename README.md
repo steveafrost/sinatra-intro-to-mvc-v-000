@@ -44,3 +44,5 @@ The Waiters (controllers) shuttle between the kitchen and the front of the resta
 In Sinatra, controllers are written in Ruby and consist of 'routes' that take requests sent from the browser ("GET this data", "POST that data"), run code based on those requests by using models, and then render the erb (view) files for the user to see.  
 
 
+
+<a href='https://learn.co/lessons/intro-to-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
