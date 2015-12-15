@@ -7,7 +7,7 @@ We'll discuss the structure of MVC web applications and explain the relationship
 
 ## Objectives
 
-1. List the problems to creating a web application in one file
+1. List the problems of creating a web application in one file
 2. Define and describe the three components- models, views, and controllers- of the MVC framework
 3. Explain the relationship between models, views, and controllers
 
@@ -49,3 +49,5 @@ In Sinatra, controllers are written in Ruby and consist of 'routes' that take re
 
 
 <a href='https://learn.co/lessons/intro-to-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/sinatra-intro-to-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
