@@ -3,7 +3,7 @@
 
 ## Overview
 
-We'll discuss the structure of MVC web applications and explain the relationship between the difffernet components in this application.
+We'll discuss the structure of MVC web applications and explain the relationship between the different components in this application.
 
 ## Objectives
 
@@ -49,3 +49,5 @@ In Sinatra, controllers are written in Ruby and consist of 'routes' that take re
 
 
 <a href='https://learn.co/lessons/intro-to-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<a href='https://learn.co/lessons/sinatra-intro-to-mvc' data-visibility='hidden'>View this lesson on Learn.co</a>
