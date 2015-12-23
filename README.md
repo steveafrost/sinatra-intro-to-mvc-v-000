@@ -13,8 +13,7 @@ We'll discuss the structure of MVC web applications and explain the relationship
 
 ## Model-View-Controller 
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/IT54uYUISQg" frameborder="0"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IT54uYUISQg" frameborder="0"
 allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=IT54uYUISQg">MVC Overview</a></p>
 
 We could create create a web application in one file, with thousands of lines of code in the same document. It would work. But it would also present us with some very big challenges. It would be close to impossible to debug our program, and our code would be virtually unreadable.
